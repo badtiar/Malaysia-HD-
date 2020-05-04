@@ -1,33 +1,3 @@
-Hello HD,https://agplayback03.aotg-video.astro.com.my/CH1/master_HELLOGOSHOP6_04.m3u8
-Astro Awani,https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
-Awani,tvbus://3rUzqeuHqgGGBC9XKGhiaUZK4GC8sP93mKh8ZB55is5XYKu8N1
-Astro Prima,http://50.7.161.82:8278/Prima/playlist.m3u8?tid=m36fb09f3c61113453606&ct=17858&tsum=3095762479d46a3f27c12c65e15cf93f
-Prima,tvbus://4BDr4ZfMd1Y38zavKcUJvNibdXEQVoHdFaMXvGT6oCf2oBu3Vp
-Astro Warna,tvbus://4XsZxBHzPETYWH1iBGHEdB9PMbDgddv3tQuH1JmtiQ3zgqJoPX
-Astro Ria,tvbus://4ZqchnbGzQJFazSHa8PvZs1YKRad6UJbpDTuqJRwd9Sy28cDYp
-Warna,http://50.7.161.82:8278/Warna/playlist.m3u8?tid=m8ada85ec4b0014888920&ct=17858&tsum=0dc08d3177880cc647290933111b7bf1
-Astro Citra,http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m519b9f598a4817711682&ct=17934&tsum=4d6f9c9e7b70fd38bc41b5ddd075b526
-Citra,tvbus://3UELXTyEHH7YmP2tUkoERqqgFMFzejbrnEL5uq5iEugZbe17b2
-Citra 1,http://50.7.161.82:8278/Citra/playlist.m3u8?tid=m02000000000016481115&ct=17950&tsum=de9053742291cc2c76b6dc3439c8560f
-BOO 1,http://50.7.161.82:8278/Boo/playlist.m3u8?tid=15619506&tsum=1f27d61781f1842bf31049ac49e87561
-BOO 2,http://50.7.161.82:8278/Boo/playlist.m3u8?tid=m13c9739e046716729882&ct=17910&tsum=385e1887564e255d1164e639259d5793
-AEC,tvbus://4SVuMUx64b1gZV6BvWTdes5Cg5nSZYZUnRv9WuJ9LPhp2ShMtd
-AOD,tvbus://3qM8pVubPhBSj3YQZrnYYrptmbrchftHEY3mAQeTdWSA82MJCN
-Alhijrah,tvbus://4poycUWuX8Rvf1PNTFqcWxXNnZ2Y37npRutioUbuJ8jJzun3Us
-Naura HD,https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
-GO_SHOP,http://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3_04.m3u8
-BLUE ANT,tvbus://46vTG6h2yMJuzbrwaMS2frBQamNpQLbN6DSSTLcRig9bGSL7NE
-Channel News Asia,tvbus://4FSwymJ6TrRpwtqQxF7ahj4FENGrEtQd5rP3skENG6tsrQkC27
-AXN,tvbus://3YDbvy6exdLYibCoFGLnT7L5zsJ5dbcbuAFDGc6ctCdsd2bh2g
-Animax,tvbus://3qZ1VdzTJmUSnAfGbxSoRaV5QF5PPNdAnTpSLsGUj7cks6KThX
-KIX,tvbus://3saGf84CwkPzG1Xr8HdpmVhg2agG2ThtWLgjYE3cnqWBZwy6Hq
-tvN,p8p://0198.02686.cc:16871/5d1a69ac0001052011bdbd440481f777.ts
-Tv 1,http://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/chunklist_b3696000.m3u8
-TV1,tvbus://3mQcVk8KuX4U7Xm7ZD88xfMBwgAEyw7boXrwUNA6NbauWCQtN7.
-TV2,tvbus://42VSafZNX3Cq8RqV7PiMbQ4Hn13PBygPqn4sGXrNHuMWeqMo6X
-TV3,tvbus://38LBff9rbM4pRxx4dtuMZkPUpCBqDwRVVGFfUukKBtAqLiyAtc
-TV8,tvbus://3xEVJ7TJM61GKgZRkAgCHqshwW8WkbqAe4LKr6DJvdnphbJsEC
-TV9,tvbus://31vwXyLvXAUkLcjsXX9mq5yxXHEtieqMugYKMiZyuWmGgMCL2X
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/95_144.png",TV1 FHD
