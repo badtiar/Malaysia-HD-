@@ -6,10 +6,10 @@ http://51.79.208.146:61980/myplay/c_58001/index.m3u8
 
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
-http://51.79.208.146:61980/myplay/c_58002/index.m3u8
+https://fvtv2.mywire.org/streams/dailymotion/ch_ntv7.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="103" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 FHD 
-https://androidrepublica.website/List/Dailymotion/tv3.m3u8|Referer=https://www.dailymotion.com/embed/video/k3GVzd2cWbveXyrApah
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 FHD 
+http://51.79.208.146:61980/myplay/c_58003/index.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD (S1)
 http://51.79.208.146:61980/myplay/c_58003/index.m3u8
@@ -17,8 +17,11 @@ http://51.79.208.146:61980/myplay/c_58003/index.m3u8
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD (S2)
 http://51.79.208.146:61980/myplay/c_58004/index.m3u8
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD (S3)
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 SD
 http://live8.bali2proxy.iptv9k.com/review_stream/tv3kbmm21/i.m3u8
+
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 SD
+http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
