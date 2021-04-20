@@ -1,25 +1,31 @@
 #EXTM3U
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1 FHD
+https://rtm1mobile.secureswiftcontent.com/Origin01/ngrp:RTM1/playlist.m3u8
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1 FHD
+https://rtm1hbbtv.secureswiftcontent.com/Origin01/ngrp:RTM1/dash.m3u8
+
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="101" tvg-chno="101" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708071026467w2e.png",TV1 (S1)
 http://51.79.208.146:61980/myplay/c_58001/index.m3u8
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="102" tvg-chno="102" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190708/20190708070724242ygr.png",TV2 (S2)
 http://51.79.208.146:61980/myplay/c_58002/index.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 
 https://fvtv2.mywire.org/streams/dailymotion/ch_tv3.m3u8|Referer=https://www.dailymotion.com
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD (S1)
-http://51.79.208.146:61980/myplay/c_58003/index.m3u8
-
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD (S2)
-http://51.79.208.146:61980/myplay/c_58004/index.m3u8
-
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 SD
 http://live8.bali2proxy.iptv9k.com/review_stream/tv3kbmm21/i.m3u8
 
-#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 SD
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 HD
 http://50.7.161.82:8278/streams/d/TV3/playlist.m3u8
+
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (S1)
+http://51.79.208.146:61980/myplay/c_58003/index.m3u8
+
+#EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (S2)
+http://51.79.208.146:61980/myplay/c_58004/index.m3u8
+
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=
