@@ -26,6 +26,11 @@ http://51.79.208.146:61980/myplay/c_58003/index.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="tv3.my" tvg-chno="103" tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/202007/20200701/202007010436159112u3.png",TV3 (S2)
 http://51.79.208.146:61980/myplay/c_58004/index.m3u8
+#EXTINF:-1 tvg-id="astro.citra.my" tvg-name="MY - 108 (CITRA)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/301_144.png" group-title="Malay",MY - 108 (CITRA)
+http://51.79.208.146:61980/myplay/c_58035/index.m3u8
+
+#EXTINF:-1 tvg-id="boo.my" tvg-name="MY - 404 (BOO)" tvg-logo="http://odwp.xyz/slogo/boo.png" group-title="Movies",MY - 404 (BOO)
+http://51.79.208.146:61980/myplay/c_58038/index.m3u8
 
 #EXTINF:-1 group-title="Malaysian Variety" tvg-id="bollyone.my"" tvg-name="MY - 251 (BOLLYONE)" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/178_144.png",Bollyone HD (Sub Malay)
 http://51.79.208.146:61980/myplay/c_58043/index.m3u8
